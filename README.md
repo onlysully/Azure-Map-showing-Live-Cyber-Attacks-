@@ -15,7 +15,7 @@ In this project, I setup Azure Sentinel (SIEM) and connect it to a live virtual 
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Final Map showing the geopositioning of RDP brute force attacks on my Virtual Machine, after using a custom API:</h2>
+<h2>Final Map showing the geopositioning of RDP brute force attacks on my Virtual Machine:</h2>
 
 <p align="center">
 FAILED RDP WORLD MAP: <br/>
