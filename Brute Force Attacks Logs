@@ -1,0 +1,53 @@
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:USER,sourcehost:37.46.113.195,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.195,timestamp:2024-01-03 08:20:05
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:CSMITH,sourcehost:37.46.113.195,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.195,timestamp:2024-01-03 08:20:04
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:RICOH,sourcehost:37.46.113.202,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.202,timestamp:2024-01-03 08:20:02
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:ASHLEY,sourcehost:37.46.113.202,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.202,timestamp:2024-01-03 08:20:17
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:CSMITH,sourcehost:37.46.113.195,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.195,timestamp:2024-01-03 08:20:11
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:SMSADMIN,sourcehost:37.46.113.203,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.203,timestamp:2024-01-03 08:20:10
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:USER,sourcehost:37.46.113.195,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.195,timestamp:2024-01-03 08:20:24
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:BAYSIDE,sourcehost:37.46.113.202,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.202,timestamp:2024-01-03 08:20:23
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:HTADMIN,sourcehost:37.46.113.203,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.203,timestamp:2024-01-03 08:20:20
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+1/3/2024, 8:22:03.066 AM
+honeypot-vm
+latitude:49.64846,longitude:5.95588,destinationhost:honeypot-vm,username:ADMINISTRATOR,sourcehost:37.46.113.203,state:Luxembourg District, country:Luxembourg,label:Luxembourg - 37.46.113.203,timestamp:2024-01-03 08:20:19
+FAILED_RDP_WITH_GEO_CL
+/subscriptions/472a3db4-5058-4dd9-a9de-d82c023c7a2f/resourcegroups/honeypotproject/providers/microsoft.compute/virtualmachines/honeypot-vm
+2s 588ms
